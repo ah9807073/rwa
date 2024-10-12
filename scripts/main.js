@@ -1,5 +1,6 @@
 // Initialize Parse SDK
-Parse.initialize("YOUR_APP_ID", "YOUR_JAVASCRIPT_KEY");
+Parse.initialize("
+7hXrDHYgDjnCRqvWDL8E27OTlt2e6uGkBE5eB7ml", "m8Luic3R6GrFHwJV9KDZlFN30LBCtaKuOQh0T4Gb");
 Parse.serverURL = 'https://parseapi.back4app.com';
 
 document.getElementById('getLogin').addEventListener('click', function () {
