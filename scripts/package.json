@@ -1,0 +1,9 @@
+
+{
+  "name": "rwa",
+  "version": "1.0.0",
+  "description": "WhatsApp Web App",
+  "main": "index.html",
+  "scripts": {},
+  "dependencies": {}
+}
